@@ -1,0 +1,41 @@
+﻿html, body {
+    min-height: 100%;
+    position: relative;
+}
+
+video{
+    display:grid;
+    border:2px solid black;
+}
+
+header {
+    display: block;
+    background: #9bd0f7;
+    padding: 1px;
+    padding-top: 10px;
+    color: black;
+    text-align: center;
+    margin: 1px;
+}
+
+section {
+    display:block;
+    float:right;
+    background: #72b9ef;
+    overflow:auto;
+    padding: 72px 30px;
+    text-align: left;
+    font-size: large;
+    color:blue;
+    margin: 1px;
+}
+
+footer {
+    float: right;
+    display: block;
+    background: #9bd0f7;
+    padding: 60px 710px;
+    text-align: center;
+    color: black;
+    margin: 1px;
+}

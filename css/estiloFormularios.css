@@ -1,0 +1,45 @@
+﻿html, body {
+    min-height: 100%;
+    position: relative;
+}
+
+header {
+    display: block;
+    background: #9bd0f7;
+    padding: 1px;
+    padding-top: 10px;
+    color: black;
+    text-align: center;
+    margin: 1px;
+}
+
+form {
+    display: block;
+    position: center;
+    background: #72b9ef;
+    height: 80%;
+    width: 100%;
+    
+}
+
+body {
+    background: #72b9ef;
+    position: center;;
+}
+input[type="text"] {
+    height: 30px;
+    border-radius:5px;
+    display:grid;
+    text-align:center;
+    
+}
+
+footer {
+    float: right;
+    display: block;
+    background: #9bd0f7;
+    padding: 60px 710px;
+    text-align: center;
+    color: black;
+    margin: 1px;
+}

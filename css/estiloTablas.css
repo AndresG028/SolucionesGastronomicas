@@ -1,0 +1,46 @@
+﻿html, body {
+    min-height: 100%;
+    position:relative;
+}
+
+header {
+    display: block;
+    background: #9bd0f7;
+    padding: 1px;
+    padding-top: 10px;
+    color: black;
+    text-align: center;
+    margin: 1px;
+}
+
+section {
+    background: #72b9ef;
+    height:70%;
+    width: 100%;
+    text-align:center;
+    line-height:120px;
+}
+td {
+    border: 1px solid black;
+    background:#9bd0f7;
+    width:8%;
+    height:60px;
+    text-align:left;
+}
+th {
+    border: 1px solid black;
+    background:#67bdfc;
+    text-align: center;
+    height:20px;
+}
+footer {
+    float: right;
+    position:absolute;
+    display: block;
+    background: #9bd0f7;
+    padding: 60px 710px;
+    text-align: center;
+    color: black;
+    margin: 1px;
+    width: 100%;
+}
